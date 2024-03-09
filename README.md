@@ -1,5 +1,5 @@
-# Speaking
-Speaking events
+# Speaking events
+
 
 March 09,2024
 --------------
@@ -7,7 +7,7 @@ March 09,2024
 
 
 
-Introduction:
+# Introduction:
 AI Builder in Power Apps is revolutionizing the way organizations build applications by infusing artificial intelligence capabilities seamlessly. This powerful toolset allows users to incorporate AI features into their Power Apps without the need for extensive coding or machine learning expertise. In this presentation, we'll explore the key features and benefits of AI Builder and how it can enhance your applications.
 
 1. Understanding AI Builder:
@@ -56,5 +56,5 @@ AI Builder in Power Apps is revolutionizing the way organizations build applicat
 5. Demonstration:
    - Building Intelligent Apps with Power Platform and AI Builder
 
-Closing Notes:
+# Closing Notes:
 AI Builder in Power Apps empowers organizations to create intelligent applications that drive innovation, efficiency, and customer satisfaction. By leveraging pre-built AI models and customizing them to specific business needs, users can unlock the full potential of their data and deliver impactful solutions. Embrace the power of AI Builder to transform your apps and propel your organization into the future.
