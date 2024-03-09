@@ -19,7 +19,7 @@ AI Builder in Power Apps is revolutionizing the way organizations build applicat
    a. Pre-built Models:
       - Sentiment Analysis: Analyze text sentiment to understand customer feedback, reviews, or social media posts.
       - Object Detection: Detect and identify objects within images, useful for inventory management or visual inspection.
-      - # Form Processing: Extract data from forms and documents automatically, reducing manual data entry.
+      - **Form Processing: Extract data from forms and documents automatically, reducing manual data entry.**
       - Prediction: Predict outcomes based on historical data, enabling proactive decision-making.
 
    b. Custom Models:
