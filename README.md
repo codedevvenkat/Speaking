@@ -40,7 +40,7 @@ AI Builder in Power Apps is revolutionizing the way organizations build applicat
       - Gain valuable insights from data through predictive analytics and trend analysis.
       - Make informed decisions faster with AI-powered recommendations and forecasts.
 
-4. Use Cases:
+5. Use Cases:
    a. Sales and Marketing:
       - Identify leads with high potential using predictive lead scoring.
       - Analyze customer feedback to improve marketing campaigns and product offerings.
@@ -53,7 +53,7 @@ AI Builder in Power Apps is revolutionizing the way organizations build applicat
       - Analyze support tickets to prioritize and route inquiries more efficiently.
       - Provide personalized responses to customer inquiries by understanding sentiment and intent.
 
-5. Demonstration:
+6. Demonstration:
    -** Building Intelligent Apps with Power Platform and AI Builder (AI Hub)**
 
 # Closing Notes:
