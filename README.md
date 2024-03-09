@@ -54,7 +54,7 @@ AI Builder in Power Apps is revolutionizing the way organizations build applicat
       - Provide personalized responses to customer inquiries by understanding sentiment and intent.
 
 5. Demonstration:
-   - Building Intelligent Apps with Power Platform and AI Builder
+   - Building Intelligent Apps with Power Platform and AI Builder (AI Hub)
 
 # Closing Notes:
 AI Builder in Power Apps empowers organizations to create intelligent applications that drive innovation, efficiency, and customer satisfaction. By leveraging pre-built AI models and customizing them to specific business needs, users can unlock the full potential of their data and deliver impactful solutions. Embrace the power of AI Builder to transform your apps and propel your organization into the future.
