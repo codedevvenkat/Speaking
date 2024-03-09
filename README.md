@@ -28,6 +28,8 @@ AI Builder in Power Apps is revolutionizing the way organizations build applicat
       - Integrate custom models seamlessly into Power Apps to automate processes and gain insights.
 
 3. Benefits:
+
+   
    a. Increased Efficiency:
       - Automate repetitive tasks such as data entry, document processing, and image recognition.
       - Improve productivity by leveraging AI to handle mundane tasks, allowing employees to focus on higher-value activities.
