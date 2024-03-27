@@ -8,7 +8,8 @@ March 28,2024
 
 ## Generative AI: Unveiling the Power of Creative Machines (30 Minutes)
 
-**1
+**1**
+
 
 ![Image1](https://github.com/codedevvenkat/Speaking/assets/68611408/e57c3d6d-4c43-4ce8-b47b-744445108153)
 
