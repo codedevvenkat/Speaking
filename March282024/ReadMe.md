@@ -8,17 +8,15 @@ March 28,2024
 
 ## Generative AI: Unveiling the Power of Creative Machines (30 Minutes)
 
-**Slide 1: Title Slide**
+**1
 
-* **Title:** Generative AI: Unveiling the Power of Creative Machines
 ![Image1](https://github.com/codedevvenkat/Speaking/assets/68611408/e57c3d6d-4c43-4ce8-b47b-744445108153)
 
 * **Speaker Notes:** 
 Welcome everyone! Today, we'll delve into the fascinating world of Generative AI. Get ready to explore its capabilities, applications, and the potential it holds for the future. 
 
-**Slide 2: What is Generative AI?**
 
-* **Title:** What is Generative AI?
+* **What is Generative AI?**
 ![image2](https://github.com/codedevvenkat/Speaking/assets/68611408/76f999fb-9a12-461b-9998-c1ace38c9718)
 
 * **Content:**
@@ -28,9 +26,8 @@ Welcome everyone! Today, we'll delve into the fascinating world of Generative AI
 * **Speaker Notes:** 
 Generative AI isn't replicating existing content, it's about creating entirely new things. Imagine a painter who studies countless masterpieces, then uses that knowledge to craft their unique style and artwork.  Generative AI works in a similar way, analyzing vast amounts of data to produce fresh and innovative creations. 
 
-**Slide 3: Types of Generative AI**
+**Types of Generative AI**
 
-* **Title:** Types of Generative AI
 ![image3](https://github.com/codedevvenkat/Speaking/assets/68611408/3f4a5c13-017e-4285-a63a-47c7bf6b4a6e)
 
 * **Content:**
@@ -42,9 +39,8 @@ Generative AI isn't replicating existing content, it's about creating entirely n
 * **Speaker Notes:** 
 The versatility of Generative AI is mind-boggling. It can generate not just text and images, but also compose music, write code, and even design 3D objects! This opens doors to a plethora of applications across diverse fields. 
 
-**Slide 4: Applications of Generative AI**
+**Applications of Generative AI**
 
-* **Title:** Applications of Generative AI
 ![image41](https://github.com/codedevvenkat/Speaking/assets/68611408/8ac448b4-e250-4594-9762-bc5533610acf)
 
 
@@ -56,9 +52,8 @@ The versatility of Generative AI is mind-boggling. It can generate not just text
 * **Speaker Notes:** 
 Generative AI is rapidly transforming various industries. It can assist designers in creating concepts, inspire musicians with new melodies, and aid scientists in their research.  In marketing, AI can help personalize campaigns, leading to more effective customer engagement. 
 
-**Slide 5: Benefits of Generative AI**
+**Benefits of Generative AI**
 
-* **Title:** Benefits of Generative AI
   ![image5](https://github.com/codedevvenkat/Speaking/assets/68611408/54374f22-e0ae-474d-b8b9-80b492075d56)
 
 
@@ -70,9 +65,8 @@ Generative AI is rapidly transforming various industries. It can assist designer
 * **Speaker Notes:** 
 Generative AI isn't meant to replace human creativity, but rather to augment it. It can be a powerful tool for artists, designers, and professionals of all kinds to enhance their work.  By automating repetitive tasks and boosting productivity, AI allows us to focus on more strategic and impactful endeavors.
 
-**Slide 6: Challenges of Generative AI**
+**Challenges of Generative AI**
 
-* **Title:** Challenges of Generative AI
 ![image6](https://github.com/codedevvenkat/Speaking/assets/68611408/b17cc042-a89c-46f1-82ac-32ce387b2cb1)
 
 * **Content:**
