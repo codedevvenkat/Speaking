@@ -1,6 +1,3 @@
-# Speaking events
-
-
 March 28,2024
 --------------
 ![march28azuresocietyofexcellence](https://github.com/codedevvenkat/Speaking/assets/68611408/b4f1f66f-a208-497c-bb9e-fd16b3db6d3a)
@@ -77,3 +74,8 @@ Generative AI isn't meant to replace human creativity, but rather to augment it.
 
 * **Content:**
     * Ethical Considerations: Bias in training data can lead to biased outputs.
+      
+  **Demonstration:**
+   -** Building Intelligent Apps with Power Platform and AI Builder (AI Hub)**
+      # Closing Notes:
+AI Builder in Power Apps empowers organizations to create intelligent applications that drive innovation, efficiency, and customer satisfaction. By leveraging pre-built AI models and customizing them to specific business needs, users can unlock the full potential of their data and deliver impactful solutions. Embrace the power of AI Builder to transform your apps and propel your organization into the future.
