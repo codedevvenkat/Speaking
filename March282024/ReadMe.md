@@ -5,20 +5,16 @@ March 28,2024
 
 ## Get In Depth Understanding of Generative AI and usage of AI Builder in Power Apps
 
-**1**
-
-
 ![Image1](https://github.com/codedevvenkat/Speaking/assets/68611408/e57c3d6d-4c43-4ce8-b47b-744445108153)
 
 * **Speaker Notes:** 
 Welcome everyone! Today, we'll delve into the fascinating world of Generative AI. Get ready to explore its capabilities, applications, and the potential it holds for the future. 
 
 
-*2 **What is Generative AI?**
+ **What is Generative AI?**
   
 ![image2](https://github.com/codedevvenkat/Speaking/assets/68611408/76f999fb-9a12-461b-9998-c1ace38c9718)
 
-* **Content:**
     * A subfield of Artificial Intelligence (AI) focused on creating new content.
     * Utilizes machine learning algorithms trained on massive datasets.
     * Learns patterns and relationships within the data to generate novel outputs.
@@ -30,7 +26,6 @@ Generative AI isn't replicating existing content, it's about creating entirely n
 
 ![image3](https://github.com/codedevvenkat/Speaking/assets/68611408/3f4a5c13-017e-4285-a63a-47c7bf6b4a6e)
 
-* **Content:**
     * Text Generation: Creates realistic and coherent textual content like poems, scripts, or news articles. 
     * Image Generation: Produces high-quality and creative images, from landscapes to portraits.
     * Music Generation: Composes original music pieces in various styles and genres.
@@ -44,8 +39,6 @@ The versatility of Generative AI is mind-boggling. It can generate not just text
 
 ![image41](https://github.com/codedevvenkat/Speaking/assets/68611408/8ac448b4-e250-4594-9762-bc5533610acf)
 
-
-* **Content:**
     * Design and Creative Industries: Generate design concepts, logos, marketing materials.
     * Media and Entertainment: Create music, scripts, trailers, personalized content.
     * Science and Research: Design new materials, accelerate drug discovery.
@@ -58,8 +51,6 @@ Generative AI is rapidly transforming various industries. It can assist designer
 
   ![image5](https://github.com/codedevvenkat/Speaking/assets/68611408/54374f22-e0ae-474d-b8b9-80b492075d56)
 
-
-* **Content:**
     * Enhanced Creativity: Spark ideas, overcome creative blocks, explore new possibilities.
     * Increased Efficiency: Automate repetitive tasks, accelerate content creation processes.
     * Improved Productivity: Focus on higher-level tasks while AI handles the groundwork.
@@ -72,10 +63,15 @@ Generative AI isn't meant to replace human creativity, but rather to augment it.
 
 ![image6](https://github.com/codedevvenkat/Speaking/assets/68611408/b17cc042-a89c-46f1-82ac-32ce387b2cb1)
 
-* **Content:**
     * Ethical Considerations: Bias in training data can lead to biased outputs.
       
   **Demonstration:**
-   -** Building Intelligent Apps with Power Platform and AI Builder (AI Hub)**
-      # Closing Notes:
+   -** Usage of AI Builder in Power Apps (AI Hub)**
+
+  **fusionAIx solution in App Source**
+  -https://appsource.microsoft.com/en-us/product/dynamics-365/fusionaixtechnologiesprivatelimited1692417997249.fxemaz?tab=Overview
+  <img width="928" alt="image" src="https://github.com/codedevvenkat/Speaking/assets/68611408/12b42c59-5c29-4949-bf88-05630f95d47c">
+
+  
+# Closing Notes:
 AI Builder in Power Apps empowers organizations to create intelligent applications that drive innovation, efficiency, and customer satisfaction. By leveraging pre-built AI models and customizing them to specific business needs, users can unlock the full potential of their data and deliver impactful solutions. Embrace the power of AI Builder to transform your apps and propel your organization into the future.
