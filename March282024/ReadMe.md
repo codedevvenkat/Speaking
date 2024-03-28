@@ -3,6 +3,15 @@ March 28,2024
 ![march28azuresocietyofexcellence](https://github.com/codedevvenkat/Speaking/assets/68611408/b4f1f66f-a208-497c-bb9e-fd16b3db6d3a)
 
 
+My Introduction :
+Social Handles
+Single Page Bio:https://linktr.ee/commonmantips
+Linkedin Profile:https://www.linkedin.com/in/venkata-subbarao-polisetty-mvp-mct-54116618/
+Website:https://venkatasubbaraopolisetty.com/
+Twitter : https://twitter.com/Venkata48681009
+Youtube : https://www.youtube.com/@venkatasubbaraopolisettymv3802
+
+
 ## Get In Depth Understanding of Generative AI and usage of AI Builder in Power Apps
 
 ![Image1](https://github.com/codedevvenkat/Speaking/assets/68611408/e57c3d6d-4c43-4ce8-b47b-744445108153)
