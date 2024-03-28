@@ -7,8 +7,6 @@ March 28,2024
 
 ![Image1](https://github.com/codedevvenkat/Speaking/assets/68611408/e57c3d6d-4c43-4ce8-b47b-744445108153)
 
-* **Speaker Notes:** 
-Welcome everyone! Today, we'll delve into the fascinating world of Generative AI. Get ready to explore its capabilities, applications, and the potential it holds for the future. 
 
 
  **What is Generative AI?**
