@@ -70,9 +70,14 @@ AI Builder in Power Apps empowers organizations to create intelligent applicatio
 
 My Social Handles
 ==================
+![Uploading image.png…]()
+
 Single Page Bio:https://linktr.ee/commonmantips
 
 Linkedin Profile:https://www.linkedin.com/in/venkata-subbarao-polisetty-mvp-mct-54116618/
+
 Website:https://venkatasubbaraopolisetty.com/
+
 Twitter : https://twitter.com/Venkata48681009
+
 Youtube : https://www.youtube.com/@venkatasubbaraopolisettymv3802
