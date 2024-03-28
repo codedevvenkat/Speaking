@@ -70,7 +70,8 @@ AI Builder in Power Apps empowers organizations to create intelligent applicatio
 
 My Social Handles
 ==================
-![Uploading image.png…]()
+<img width="614" alt="image" src="https://github.com/codedevvenkat/Speaking/assets/68611408/587a4749-d17a-43de-97b9-0ec769a1740f">
+
 
 Single Page Bio:https://linktr.ee/commonmantips
 
